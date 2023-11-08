@@ -1,4 +1,3 @@
-import { CgDanger } from "react-icons/cg"; 
 import "./Alert.scss"
 import { ReactNode } from "react";
 import { AiOutlineCloseCircle } from "react-icons/ai";
